@@ -55,13 +55,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-    # bodies = [
-    #     Body(mass=500.0,
-    #          x=750.0,
-    #          y=500.0,
-    #          v=np.array([0, .1])),
-    #     Body(mass=500.0,
-    #          x=400.0,
-    #          y=500.0,
-    #          v=np.array([0, -0.1]))
-    # ]
